@@ -13,8 +13,8 @@
 - ⚡ Fun fact ... **I lived in Antarctica for four months!**
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/cwardlaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="cwardlaw" height="30" width="40" /></a>
 </p>
 
