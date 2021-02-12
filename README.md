@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋🏾, I'm Caleb Wardlaw.</h1>
 <h3 align="center">Inquisitive Developer based in Texas.</h3>
 <p align="center">
-- 🔭 Working on ... [SoJu - Social justice resources for educators](https://github.com/CalebWardlaw/group-java-adlister)
+- 🔭 Working on ... [<a href="https://github.com/CalebWardlaw/group-java-adlister">SoJu</a> - Social justice resources for educators]
 </p>
 <p align="center">
 - 🌱 Learning ... **Spring, React, and B2C Commerce Development**
