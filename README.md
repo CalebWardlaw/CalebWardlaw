@@ -10,7 +10,7 @@
 - 📫 How to reach me ... **calebwardlaw@gmail.com**
 </p>
 <p align="center">
-- ⚡ Fun fact ... **I lived in Antarctica for four months!**
+- ⚡ Fun fact ... **I worked in Antarctica for four months!**
 </p>
 
 <h3 align="center">Connect:</h3>
