@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ... **calebwardlaw@gmail.com**
 
-- ⚡ Fun fact **I lived in Antarctica for four months. Also, polar bears have hollow hairs!**
+- ⚡ Fun fact ... **I lived in Antarctica for four months. Also, polar bears have hollow hairs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
