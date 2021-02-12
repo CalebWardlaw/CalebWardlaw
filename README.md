@@ -2,11 +2,14 @@
 <h3 align="center">Inquisitive Developer based in Texas.</h3>
 <p align="center">
 - 🔭 Working on ... [SoJu - Social justice resources for educators](https://github.com/CalebWardlaw/group-java-adlister)
-
+</p>
+<p align="center">
 - 🌱 Learning ... **Spring, React, and B2C Commerce Development**
-
+</p>
+<p align="center">
 - 📫 How to reach me ... **calebwardlaw@gmail.com**
-
+</p>
+<p align="center">
 - ⚡ Fun fact ... **I lived in Antarctica for four months!**
 </p>
 
