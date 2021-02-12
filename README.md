@@ -1,6 +1,6 @@
 <h1 align="center">Greetings 👋🏾, I'm Caleb Wardlaw.</h1>
 <h3 align="center">Inquisitive Developer based in Texas.</h3>
-
+<p align="center">
 - 🔭 Working on ... [SoJu - Social justice resources for educators](https://github.com/CalebWardlaw/group-java-adlister)
 
 - 🌱 Learning ... **Spring, React, and B2C Commerce Development**
@@ -8,6 +8,7 @@
 - 📫 How to reach me ... **calebwardlaw@gmail.com**
 
 - ⚡ Fun fact ... **I lived in Antarctica for four months!**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
