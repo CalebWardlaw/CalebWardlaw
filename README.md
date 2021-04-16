@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋🏾, I'm Caleb Wardlaw.</h1>
 <h3 align="center">Inquisitive Developer based in Texas.</h3>
 <p align="center">
-- 🔭 Working on ... [<a href="https://github.com/CalebWardlaw/group-java-adlister">SoJu</a> - Social justice resources for educators]
+- 🔭 Working on ... [<a href="https://github.com/CalebWardlaw/group-java-adlister">React</a> - Mobile Development]
 </p>
 <p align="center">
 -⏳ <a href="https://calebwardlaw.github.io">Previous Work</a> ... 
